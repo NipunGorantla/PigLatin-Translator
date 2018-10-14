@@ -1,0 +1,2 @@
+# PigLatin-Translator
+This is a beginner PIGLATIN TRANSLATOR CODE. PLEASE REVIEW AND MAKE EDITS. 
